@@ -3,4 +3,4 @@ class Command:
     title = ""
     description = ""
     def callback(self):
-        print("callback")
+        return False
